@@ -1,1 +1,2 @@
-Weather project dont will gave the accurate weather related things because i have used free version of the api.
+The weather project might not provide accurate data due to the limitations of the free API. 
+
